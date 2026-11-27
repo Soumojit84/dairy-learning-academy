@@ -1,0 +1,12 @@
+{
+  "name": "Dairy Learning Academy",
+  "short_name": "Dairy Academy",
+  "description": "Learn. Practice. Evaluate. Excel.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f8f3",
+  "theme_color": "#f8f8f3",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
